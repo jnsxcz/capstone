@@ -1,0 +1,10 @@
+{
+    "name": "jovan-g-natividad/capstone",
+    "description": "Online Faculty Evaluation",
+    "type": "project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^3.4"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
+}
